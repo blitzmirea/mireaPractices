@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smirea4_1", "smirea4_1\smirea4_1.csproj", "{CA2A90E5-7EE2-4DBA-81C0-8510433D3E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2A90E5-7EE2-4DBA-81C0-8510433D3E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2A90E5-7EE2-4DBA-81C0-8510433D3E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2A90E5-7EE2-4DBA-81C0-8510433D3E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2A90E5-7EE2-4DBA-81C0-8510433D3E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C41EEA9-7B0C-4B1D-BD0A-6096EFC20DA7}
+	EndGlobalSection
+EndGlobal
