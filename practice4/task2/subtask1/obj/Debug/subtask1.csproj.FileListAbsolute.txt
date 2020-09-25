@@ -1,0 +1,6 @@
+C:\Users\123\Documents\mireaPractices\practice4\task2\subtask1\bin\Debug\subtask1.exe
+C:\Users\123\Documents\mireaPractices\practice4\task2\subtask1\bin\Debug\subtask1.pdb
+C:\Users\123\Documents\mireaPractices\practice4\task2\subtask1\obj\Debug\subtask1.csprojAssemblyReference.cache
+C:\Users\123\Documents\mireaPractices\practice4\task2\subtask1\obj\Debug\subtask1.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\mireaPractices\practice4\task2\subtask1\obj\Debug\subtask1.exe
+C:\Users\123\Documents\mireaPractices\practice4\task2\subtask1\obj\Debug\subtask1.pdb

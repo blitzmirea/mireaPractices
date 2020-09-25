@@ -1,0 +1,6 @@
+C:\Users\123\Documents\mireaPractices\practice4\task4\bin\Debug\task4.exe
+C:\Users\123\Documents\mireaPractices\practice4\task4\bin\Debug\task4.pdb
+C:\Users\123\Documents\mireaPractices\practice4\task4\obj\Debug\task4.csprojAssemblyReference.cache
+C:\Users\123\Documents\mireaPractices\practice4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\mireaPractices\practice4\task4\obj\Debug\task4.exe
+C:\Users\123\Documents\mireaPractices\practice4\task4\obj\Debug\task4.pdb
